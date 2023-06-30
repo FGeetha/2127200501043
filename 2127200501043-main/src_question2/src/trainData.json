@@ -1,0 +1,146 @@
+[
+	{
+		"trainName": "Test Exp",
+		"trainNumber": "2348",
+		"departureTime": {
+			"Hours": 15,
+			"Minutes": 55,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 1,
+			"AC": 0
+		},
+		"price": {
+			"sleeper": 722,
+			"AC": 1009
+		},
+		"delayedBy": 11
+	},
+	{
+		"trainName": "Manoranjan Exp",
+		"trainNumber": "2347",
+		"departureTime": {
+			"Hours": 17,
+			"Minutes": 33,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 5,
+			"AC": 1
+		},
+		"price": {
+			"sleeper": 278,
+			"AC": 403
+		},
+		"delayedBy": 12
+	},
+	{
+		"trainName": "Pune Exp",
+		"trainNumber": "2342",
+		"departureTime": {
+			"Hours": 23,
+			"Minutes": 0,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 6,
+			"AC": 7
+		},
+		"price": {
+			"sleeper": 809,
+			"AC": 1809
+		},
+		"delayedBy": 17
+	},
+	{
+		"trainName": "Mumbai Exp",
+		"trainNumber": "2343",
+		"departureTime": {
+			"Hours": 22,
+			"Minutes": 37,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 8,
+			"AC": 15
+		},
+		"price": {
+			"sleeper": 560,
+			"AC": 660
+		},
+		"delayedBy": 16
+	},
+	{
+		"trainName": "Hyderabad Exp",
+		"trainNumber": "2341",
+		"departureTime": {
+			"Hours": 23,
+			"Minutes": 55,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 6,
+			"AC": 7
+		},
+		"price": {
+			"sleeper": 554,
+			"AC": 1854
+		},
+		"delayedBy": 5
+	},
+	{
+		"trainName": "Chennai Exp",
+		"trainNumber": "2344",
+		"departureTime": {
+			"Hours": 21,
+			"Minutes": 35,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 3,
+			"AC": 1
+		},
+		"price": {
+			"sleeper": 414,
+			"AC": 530
+		},
+		"delayedBy": 15
+	},
+	{
+		"trainName": "Manu Exp",
+		"trainNumber": "2346",
+		"departureTime": {
+			"Hours": 19,
+			"Minutes": 0,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 15,
+			"AC": 10
+		},
+		"price": {
+			"sleeper": 510,
+			"AC": 710
+		},
+		"delayedBy": 13
+	},
+	{
+		"trainName": "Kolkata Exp",
+		"trainNumber": "2345",
+		"departureTime": {
+			"Hours": 20,
+			"Minutes": 15,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 16,
+			"AC": 70
+		},
+		"price": {
+			"sleeper": 540,
+			"AC": 640
+		},
+		"delayedBy": 14
+	}
+]
